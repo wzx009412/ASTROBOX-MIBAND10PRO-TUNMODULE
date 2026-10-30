@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "979871741370",
+    "restype": "watchface",
+    "name": "TUN模块",
+    "description": "TUN模块：恢复小米手环10pro的fetch功能\n\n- 本模块适用于小米手环10pro 系统版本3.101.043的设备\n- 使用方法：在设备启动之后，连接蓝牙之前运行模块（按1），搭配自启动使用体验更佳。\n- ℹ️一定要在没有连接蓝牙的时候运行模块！否则不生效！\n- ℹ️hyperbili，wristbili等快应用无法播放视频或无法登录，是快应用没有对手环10pro适配，和模块无关。",
+    "preview": [
+      "media/85044.jpg"
+    ],
+    "icon": "media/85045.jpg",
+    "cover": "media/85044.jpg",
+    "author": [
+      {
+        "name": "wzx5343",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "开源地址",
+      "url": "https://github.com/wzx009412/MIBAND10PRO-TUNMODULE",
+      "icon": "github-logo"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/tunboot_cert-5.face",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
